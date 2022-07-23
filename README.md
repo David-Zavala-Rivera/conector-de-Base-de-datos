@@ -1,5 +1,5 @@
 # Subscriptor a TOPIC MQTT
-#programa que ealiza una conexión al topic MQTT
+#programa que realiza una conexión al topic MQTT
 
 import paho.mqtt.client as mqtt
 import time
