@@ -1,5 +1,5 @@
-# conector-de-Base-de-datos
-programa que ealiza una conexión a la base de datos en MariaDB
+# Subscriptor a TOPIC MQTT
+#programa que ealiza una conexión al topic MQTT
 
 import paho.mqtt.client as mqtt
 import time
